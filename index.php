@@ -16,7 +16,7 @@
         </div>
 
         <div id="github">
-            <a href="" target="_blank"><img height="35" width="136" src="app/images/github.png" /></a>
+            <a href="https://github.com/KevinSooruz/imessage" target="_blank"><img height="35" width="136" src="app/images/github.png" /></a>
         </div>
 
     <!-- Dev version -->
